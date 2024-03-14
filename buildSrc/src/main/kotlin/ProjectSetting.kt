@@ -44,7 +44,7 @@ object ProjectSetting {
     const val PROJECT_VERSION_NAME = "$VERSION_MAJOR.$VERSION_MINOR.$VERSION_PATCH"
 
     // Declaration apps name debug mode
-    const val debugAttribute = "DEV"
+    const val debugAttribute = ""
     const val nameAppDebug = "$NAME_APP $debugAttribute"
 
 }
