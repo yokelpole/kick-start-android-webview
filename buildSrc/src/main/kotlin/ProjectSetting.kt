@@ -13,12 +13,12 @@
 
 object ProjectSetting {
     // project settings
-    const val NAME_APP = "WebView"
+    const val NAME_APP = "Bakalist"
 
     // Change This
     // Sample : com.[yourcompanyname].[yourprojectname]
     // Sample : com.frogobox.webview
-    const val PROJECT_APP_ID = "com.github.amirisback.web" // Change With Your Own
+    const val PROJECT_APP_ID = "com.yokelpole.bakalist" // Change With Your Own
 
     const val VERSION_MAJOR = 1
     const val VERSION_MINOR = 0

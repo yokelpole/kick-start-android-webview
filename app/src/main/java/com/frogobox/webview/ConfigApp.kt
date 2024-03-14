@@ -13,7 +13,7 @@ package com.frogobox.webview
 
 object ConfigApp {
 
-    const val URL_LINK_WEBSITE = "https://github.com/amirisback"
+    const val URL_LINK_WEBSITE = "https://bakalist.app/app"
 
     object Flag {
 
@@ -23,8 +23,8 @@ object ConfigApp {
             turn off = false
          */
 
-        const val IS_USING_AD_INTERSTITIAL = true
-        const val IS_USING_AD_BANNER = true
+        const val IS_USING_AD_INTERSTITIAL = false
+        const val IS_USING_AD_BANNER = false
     }
 
 }
